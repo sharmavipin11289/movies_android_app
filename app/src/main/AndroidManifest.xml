@@ -30,6 +30,10 @@
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:hardwareAccelerated="true"
             android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".TrailerActivity"
+            android:exported="false"
+            android:theme="@style/Theme.MoviesAndroidApp" />
     </application>
 
 </manifest>
