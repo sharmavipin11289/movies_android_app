@@ -19,8 +19,8 @@ some_folder/
 Prerequisites: Android Studio, Flutter SDK, an emulator or device.
 
 ```bash
-git clone <module-repo-url> movies_flutter_module
-git clone <android-repo-url> movies_android_app
+git clone https://github.com/sharmavipin11289/movies_flutter_module.git movies_flutter_module
+git clone https://github.com/sharmavipin11289/movies_android_app.git movies_android_app
 
 cd movies_flutter_module
 # add your TMDB key, see the module README
